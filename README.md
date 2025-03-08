@@ -1,7 +1,7 @@
 <h2>Tensorflow-Tiled-Image-Segmentation-IDRiD-Retinal-Vessel (2025/03/09)</h2>
 Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <a href="/"><b>IDRiD Retinal Vessel</b></a>
+This is the first experiment of Image Segmentation for <b>IDRiD Retinal Vessel</b>
  based on Pretrained HRF Retinal Vessel Model, which was trained by 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, 
 and a <b>pre-augmented tiled dataset</b> <a href="https://drive.google.com/file/d/1bCbZRej3_aOaYuvXbv0vYnrPold3aXPf/view?usp=sharing">
